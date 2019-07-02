@@ -5,7 +5,7 @@
 
 ## :pencil2:  算法和数据结构
 
-* [DataStructerNotes](<https://github.com/CausingBrick/PersonalNotes/tree/master/DataStructerNotes>)
+* [DataStruct](<https://github.com/CausingBrick/DataStructre>)
 
 
 
